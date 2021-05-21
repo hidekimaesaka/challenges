@@ -48,5 +48,3 @@ def soma_dias(data, dias):
     else:
         print(data_final)
 
-
-soma_dias("19/05/2021", 4)
