@@ -1,2 +1,2 @@
 # challenges
-desafios que participaram da minha evolução
+desafios que participaram da minha evolução.
